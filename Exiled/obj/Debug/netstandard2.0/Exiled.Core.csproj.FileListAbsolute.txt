@@ -1,0 +1,9 @@
+C:\Users\andyr\source\repos\Exiled\Exiled\bin\Debug\netstandard2.0\Exiled.Core.deps.json
+C:\Users\andyr\source\repos\Exiled\Exiled\bin\Debug\netstandard2.0\Exiled.Core.dll
+C:\Users\andyr\source\repos\Exiled\Exiled\bin\Debug\netstandard2.0\Exiled.Core.pdb
+C:\Users\andyr\source\repos\Exiled\Exiled\obj\Debug\netstandard2.0\Exiled.Core.csproj.CoreCompileInputs.cache
+C:\Users\andyr\source\repos\Exiled\Exiled\obj\Debug\netstandard2.0\Exiled.Core.AssemblyInfoInputs.cache
+C:\Users\andyr\source\repos\Exiled\Exiled\obj\Debug\netstandard2.0\Exiled.Core.AssemblyInfo.cs
+C:\Users\andyr\source\repos\Exiled\Exiled\obj\Debug\netstandard2.0\Exiled.Core.dll
+C:\Users\andyr\source\repos\Exiled\Exiled\obj\Debug\netstandard2.0\Exiled.Core.pdb
+C:\Users\andyr\source\repos\Exiled\Exiled\obj\Debug\netstandard2.0\Exiled.Core.csprojAssemblyReference.cache
